@@ -1,6 +1,6 @@
 import json
 
-with open('synack.json') as f:
+with open('urls.json') as f:
     data = json.load(f)
 
 for record in data['records']:
