@@ -1,22 +1,22 @@
 {
 	"records": [
 		{
-			"domain": "synack1.synack.com",
+			"domain": "test1.test.com",
 			"firstSeen": 1549666048,
 			"lastSeen": 1554509577
 		},
 		{
-			"domain": "synack2.synack.com",
+			"domain": "test2.test.com",
 			"firstSeen": 1549665873,
 			"lastSeen": 1554509779
 		},
 		{
-			"domain": "synack3.synack.com",
+			"domain": "test3.test.com",
 			"firstSeen": 1549665810,
 			"lastSeen": 1554509561
 		},
 		{
-			"domain": "synack4.synack.com",
+			"domain": "test4.test.com",
 			"firstSeen": 1549665995,
 			"lastSeen": 1554509903
 		}
